@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋, I'm Harsh Chaudhari<br>A passionate frontend developer & Wordpress Developer from India <br>
+# I'm Harsh Chaudhari<br>A passionate frontend developer & Wordpress Developer from India <br>
 Fun Fact: I'm Not Funny!!!
 
 ## 🌐 Socials:
