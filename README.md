@@ -1,7 +1,6 @@
 # 💫 About Me:
 Hi 👋, I'm Harsh Chaudhari<br>A passionate frontend developer & Wordpress Developer from India
 
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://instagram.com/fizzy_the_foo) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linkedin.com/in/harsh-chaudhari-webdevelope) 
 
